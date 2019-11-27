@@ -1,0 +1,9 @@
+.RegisterForm-form {
+  max-width: 300px;
+}
+.RegisterForm-form-forgot {
+  float: right;
+}
+.RegisterForm-form-button {
+  width: 100%;
+}
